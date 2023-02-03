@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my secret place :wave: </h1>
 
-> Well, my name is Khuu Minh Phong, 
+> My name is Khuu Minh Phong, 
 > I'm currently a student of University of Information Technology (UIT) in Vietnam
 
 > I'm learning programming and yet, I founded it really hard :sweat_smile:
