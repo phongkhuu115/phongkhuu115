@@ -12,3 +12,5 @@ If you are looking for something, you can leave now
 Nothing to see here :grin: 
 
 <h3 align="left"> OK Well. Nice to see you, have a great day 👋 </h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
