@@ -27,4 +27,6 @@ My Project:
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=fkm-dev)](https://github.com/phongkhuu115/fkm-dev)
 
+[![Bakery](https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=BakeryWebsiteDemo)](https://github.com/phongkhuu115/BakeryWebsiteDemo)
+
 
