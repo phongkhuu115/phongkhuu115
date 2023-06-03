@@ -18,7 +18,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,bootstrap,tailwind,cs,git,github,linux,mysql)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=6&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My Project:
