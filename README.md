@@ -16,20 +16,44 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
   <img src="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true" />
 </picture>
 
-:mailbox_with_mail: How to reach me: 
+:mailbox_with_mail: How to reach me:
 
-<a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="50" height="50"></a>
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/phong.km115/)
-<a href='mailto:phongkhuu115@gmail.com'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png"  width="50" height="50"></a>
-
+<div style="display:flex; gap:2rem">
+  <a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="40" height="40"></a>
+  <a href='mailto:phongkhuu115@gmail.com'>
+    <picture>
+      <source
+        srcset="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/459db14b646842c80ee966bb90f3559bf0fe5d18/gmail-white.svg"
+        media="(prefers-color-scheme: dark)"
+       />
+      <source
+        srcset="https://github.com/phongkhuu115/phongkhuu115/blob/main/gmail-black.svg"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/459db14b646842c80ee966bb90f3559bf0fe5d18/gmail-black.svg"  width="40" height="40">
+    </picture>
+  </a>
+  <a href="https://www.instagram.com/phong.km115/">
+    <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/d42a2e9408143d66310800cdcae4061b13fe2b28/instagram.svg" alt="Instagram" width="40" height="40">
+  </a>
+</div>
 
 :clipboard: My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,bootstrap,tailwind,cs,git,github,linux,mysql)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&theme=dark&layout=compact"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&layout=compact" />
+</picture>
 
 :telescope: My Project:
 
@@ -38,5 +62,3 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=fkm-dev)](https://github.com/phongkhuu115/fkm-dev)
 
 [![Bakery](https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=BakeryWebsiteDemo)](https://github.com/phongkhuu115/BakeryWebsiteDemo)
-
-
