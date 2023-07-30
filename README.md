@@ -17,8 +17,10 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 </picture>
 
 :mailbox_with_mail: How to reach me:
-<div style="display:flex; gap:2rem">
+
+<div>
   <a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="50" height="50"></a>
+  &nbsp;
   <a href='mailto:phongkhuu115@gmail.com'>
     <picture>
       <source
@@ -32,8 +34,13 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
       <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/459db14b646842c80ee966bb90f3559bf0fe5d18/gmail-black.svg"  width="50" height="50">
     </picture>
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/phong.km115/">
     <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/d42a2e9408143d66310800cdcae4061b13fe2b28/instagram.svg" alt="Instagram" width="50" height="50">
+  </a>
+  &nbsp;
+  <a href="tel:+84937001063">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Viber.svg" alt="Instagram" width="50" height="50">
   </a>
 </div>
 
