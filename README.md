@@ -6,7 +6,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true&theme=cobalt"
     media="(prefers-color-scheme: light)"
   />
   <source
@@ -50,7 +50,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&theme=dark&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&theme=cobalt&layout=compact"
     media="(prefers-color-scheme: light)"
   />
   <source
@@ -68,7 +68,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 <a href="https://github.com/phongkhuu115/F4-Koin_Web">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=F4-Koin_Web&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=F4-Koin_Web&theme=cobalt"
       media="(prefers-color-scheme: light)"
     />
     <source
@@ -83,7 +83,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 <a href="https://github.com/phongkhuu115/fkm-dev">
   <picture>
     <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=fkm-dev&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=fkm-dev&theme=cobalt"
     media="(prefers-color-scheme: light)"
     />
     <source
@@ -97,7 +97,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 <a href="https://github.com/phongkhuu115/BakeryWebsiteDemo">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=BakeryWebsiteDemo&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=BakeryWebsiteDemo&theme=cobalt"
     media="(prefers-color-scheme: light)"
   />
   <source
