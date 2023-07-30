@@ -4,9 +4,19 @@
 
 My main interests are Web Developement and Security. Most of the time, I'm a Frontend Developer, but I always look for opportunities to work as a Backend Developer or even Security positions
 
-[![Phong Khuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=phongkhuu115&hide=prs,issues&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true" />
+</picture>
 
-:mailbox_with_mail: How to reach me
+:mailbox_with_mail: How to reach me: 
 
 <a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="50" height="50"></a>
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/phong.km115/)
@@ -21,7 +31,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-My Project:
+:telescope: My Project:
 
 [![F4Koin](https://github-readme-stats.vercel.app/api/pin/?username=phongkhuu115&repo=F4-Koin_Web)](https://github.com/phongkhuu115/F4-Koin_Web)
 
