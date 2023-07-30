@@ -17,7 +17,6 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 </picture>
 
 :mailbox_with_mail: How to reach me:
-
 <div style="display:flex; gap:2rem">
   <a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="50" height="50"></a>
   <a href='mailto:phongkhuu115@gmail.com'>
