@@ -19,7 +19,7 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
 :mailbox_with_mail: How to reach me:
 
 <div>
-  <a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="40" height="40"></a>
+  <a href='https://www.facebook.com/profile.php?id=100012597317849'><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png"  width="50" height="50"></a>
   &nbsp;
   <a href='mailto:phongkhuu115@gmail.com'>
     <picture>
@@ -31,16 +31,16 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
         srcset="https://github.com/phongkhuu115/phongkhuu115/blob/main/gmail-black.svg"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/459db14b646842c80ee966bb90f3559bf0fe5d18/gmail-black.svg"  width="40" height="40">
+      <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/459db14b646842c80ee966bb90f3559bf0fe5d18/gmail-black.svg"  width="50" height="50">
     </picture>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/phong.km115/">
-    <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/d42a2e9408143d66310800cdcae4061b13fe2b28/instagram.svg" alt="Instagram" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/phongkhuu115/phongkhuu115/d42a2e9408143d66310800cdcae4061b13fe2b28/instagram.svg" alt="Instagram" width="50" height="50">
   </a>
   &nbsp;
   <a href="tel:+84937001063">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Viber.svg" alt="Instagram" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Viber.svg" alt="Instagram" width="50" height="50">
   </a>
 </div>
 
