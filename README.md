@@ -16,6 +16,8 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
   <img src="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true" />
 </picture>
 
+<hr>
+
 :mailbox_with_mail: How to reach me:
 
 <div>
@@ -44,6 +46,8 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
   </a>
 </div>
 
+<hr>
+
 :clipboard: My Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,bootstrap,tailwind,cs,git,github,linux,mysql)](https://skillicons.dev)
@@ -59,6 +63,8 @@ My main interests are Web Developement and Security. Most of the time, I'm a Fro
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongkhuu115&langs_count=7&layout=compact" />
 </picture>
+
+<hr>
 
 :telescope: My Project:
 
