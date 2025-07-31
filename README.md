@@ -62,7 +62,6 @@ I'm a Full Stack Developer from Vietnam with a strong focus on web development. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phongkhuu115&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongkhuu115&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Featured Projects
